@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/izumi-shikibu-zoku",
  "yomi": "いずみしきぶぞくしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "和泉式部",
+  "desc": "和泉式部の家集のうち、正集に続いて編まれた続集。恋の贈答や亡き敦道親王を悼む歌など、詞書の長い歌が多く、正集と重なる歌もある。"
+ },
  "editions": [
   {
    "pid": "936505",
